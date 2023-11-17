@@ -1,0 +1,7 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20%;
+  background: linear-gradient(to right, #e66465, #9198e5);
+}
