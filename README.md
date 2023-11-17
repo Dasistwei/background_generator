@@ -1,2 +1,3 @@
 # background_generator
-![Uploading 截圖 2023-11-17 下午8.30.43.png…]()
+
+<img width="752" alt="a" src="https://github.com/Dasistwei/background_generator/assets/139960489/10dd7651-e944-4f27-9b50-59f9e98d6b33">
